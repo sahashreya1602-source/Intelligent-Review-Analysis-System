@@ -1,7 +1,10 @@
 pandas
 matplotlib
-nltk
+google-play-scraper
 scikit-learn
 transformers
 torch
-google-play-scraper
+nltk
+sentencepiece
+protobuf
+tiktoken
